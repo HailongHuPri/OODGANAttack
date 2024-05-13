@@ -1,4 +1,4 @@
-# Fooling Machine Learning Models: A Novel Out-of-Distribution Attack through Generative Adversarial Networks
+# OODGANAttack
 
 This repository provides the implementation of the research paper "Fooling Machine Learning Models: A Novel Out-of-Distribution Attack through Generative Adversarial Networks'' .
 
